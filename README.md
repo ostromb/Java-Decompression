@@ -1,4 +1,4 @@
-# Java-Decompression
+# Java-Temperature
 Compares tables of temperature statistics from different cities and sorts for given time period. First input line is the number of time periods followed by the number of cities. Thereafter follows each timeperiod and then each city and temperatures for given periods. Last input line is the chosen timeperiod.
 
 Sample input:
